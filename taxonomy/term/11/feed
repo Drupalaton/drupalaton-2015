@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2015.drupalaton.hu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Drupalaton - Silver</title>
+ <link>http://2015.drupalaton.hu/taxonomy/term/11</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Druid</title>
+ <link>http://2015.drupalaton.hu/druid</link>
+ <description>&lt;div class=&quot;field field-name-field-sponsor-logo field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://2015.drupalaton.hu/sites/default/files/druid-180x90-black-on-white.png&quot; width=&quot;180&quot; height=&quot;90&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Druid consists of twenty carefully selected, highly skilled Drupal enthusiasts. Our focus is mostly on large, challenging web systems where performance optimization, stability, and high code quality are absolutely vital. We contribute regularly to the community and are familiar faces on all local and major international Drupal-events.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Druid sponsors the healthy sprinting throughout the event.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.druid.fi&quot;&gt;http://www.druid.fi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Silver&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 03 Aug 2015 13:22:43 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">166 at http://2015.drupalaton.hu</guid>
+</item>
+</channel>
+</rss>
